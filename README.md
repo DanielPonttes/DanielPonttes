@@ -8,7 +8,7 @@ I am currently a researcher in :
 
 ## Projetos e Pesquisa 🚀
 
-* Simulador de Computador SIC/XE (Projeto Acadêmico) :  
+* Simulador de Computador SIC/XE (Projeto Acadêmico) :  (https://github.com/Ttavaresz/PS-Grupo-4)
 
 
 
