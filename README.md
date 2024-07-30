@@ -6,6 +6,12 @@ I am currently a researcher in :
 * Data science with _Selenium/Chromium_;
 * Neural networks applications with _TensorFlow_.
 
+## Projetos e Pesquisa 🚀
+
+* Simulador de Computador SIC/XE (Projeto Acadêmico) :  
+
+
+
 ### Social 🌐
 ![image](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)
 danielpontes165@gmail.com 🔗
