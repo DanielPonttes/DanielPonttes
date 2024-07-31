@@ -6,9 +6,9 @@ I am currently a researcher in :
 * Data science with _Selenium/Chromium_;
 * Neural networks applications with _TensorFlow_.
 
-## Projetos e Pesquisa 🚀
+## Project and Research 🚀
 
-* Simulador de Computador SIC/XE (Projeto Acadêmico - Programação de Sistemas) :  (https://github.com/Ttavaresz/PS-Grupo-4)
+* SIC/XE Simulator (Academic Project - Programação de Sistemas) :  (https://github.com/Ttavaresz/PS-Grupo-4)
 
 
 
