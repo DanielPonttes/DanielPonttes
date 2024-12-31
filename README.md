@@ -9,7 +9,7 @@ I am currently a researcher in :
 ## Projects and Research 🚀
 
 * SIC/XE Simulator (Academic Project - Programação de Sistemas) :  (https://github.com/Ttavaresz/PS-Grupo-4)
-* 
+* Sentiment analysis in book reviews: https://github.com/DanielPonttes/Analise-de-reviews-com-analise-de-sentimentos-com-Pytorch
 
 
 
